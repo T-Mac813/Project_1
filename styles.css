@@ -1,0 +1,88 @@
+/*colors*/
+.Colors {
+    border:2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .Color-boxes {
+    width: 100%;
+  }
+  
+  .Color-box {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .blue {
+    background-color: #034C65;
+    color: #fff; 
+  }
+  
+  .pink {
+    background-color: #EF8C86;
+    color: #3B3B3B;
+  }
+  
+  .yellow {
+    background-color: #FCB677;
+    color: #3B3B3B;
+  }
+  
+  .purple {
+    background-color: #685268;
+    color: #fff;
+  }
+  /*fonts*/
+  .fonts {
+    border:2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  font-boxes {
+    width: 100%;
+  }
+  
+  .font-box {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .font-title {
+    font-weight: bolder;
+    text-decoration: green wavy underline;
+  }
+  .nunito {
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  .open_sans {
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+  
+  .chakra {
+    font-family: 'Chakra Petch', sans-serif;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .font-italic {
+    font-style: italic;
+  }
+  
+  /*text styles*/
+  .text-style {
+    border:2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
